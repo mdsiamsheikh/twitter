@@ -1,4 +1,4 @@
-# twitter-clone
+# Twitter-Clone
 
 ## Build Setup
 
